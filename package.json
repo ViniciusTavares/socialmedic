@@ -1,9 +1,9 @@
 {
-  "name": "poc_socialmedic",
+  "name": "socialmedic",
   "version": "1.0.0",
   "description": "POC for the Social Medic Service",
   "main": "app.js",
-  "author": "Salomao Candeiro <s4lomao@live.com>",
+  "author": "Salomao Candeiro <s4lomao@live.com>, Vinicius R. Tavares <vinicius.rafael19@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "mongoose": "^4.3.7",
