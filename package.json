@@ -1,0 +1,12 @@
+{
+  "name": "poc_socialmedic",
+  "version": "1.0.0",
+  "description": "POC for the Social Medic Service",
+  "main": "app.js",
+  "author": "Salomao Candeiro <s4lomao@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.3.7",
+    "restify": "^4.0.3"
+  }
+}
